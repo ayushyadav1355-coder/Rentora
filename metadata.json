@@ -1,0 +1,6 @@
+{
+  "name": "Rentora - Smart Rental Platform",
+  "description": "Rentora (BorrowHub): Borrow. Use. Return. A smart rental platform for everyday essentials like laptops, bikes, cameras, and gear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
